@@ -1,0 +1,21 @@
+<template>
+    
+        <lightning-card  title="Current Temprature">
+            <template if:true={flag}>
+            <!-- <p class="slds-align_absolute-center slds-text-heading_large">15 ° C</p> -->
+            <div  class="slds-text-title_caps fontSize">
+                City : {fullData.city}
+                <br>
+                Temp : {fullData.tempC} °C
+                <br>
+                {fullData.icon}
+        
+            </div> 
+            <br>
+            
+                
+            
+        </template>
+        </lightning-card>
+    
+</template>
