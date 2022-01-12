@@ -8,4 +8,7 @@ In this project I have Used LWC to make 2 new component on Record Page
 Future Plans 
 Upgrade UI Of Temprature Widget.
 
-[[blob:https://web.whatsapp.com/99047ef1-badd-4a11-88c2-21c2682a3102|alt=TempratureWidget]]
+![image](https://user-images.githubusercontent.com/73140231/149088496-a13415b5-56d3-40fc-bd07-d89efb5bd2f0.png)
+
+![image](https://user-images.githubusercontent.com/73140231/149088540-2e7fc538-20c1-4c34-b86d-78a6a64d595d.png)
+
